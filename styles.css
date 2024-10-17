@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+div{
+	background-color:grey;
+	border:2px double black;
+	padding:5px;
+	margin:5px
+}
